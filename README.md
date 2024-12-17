@@ -1,11 +1,10 @@
 
-# TUF B760M PLUS i5 13600KF RX550 LEXA
+# TUF B760M Plus i5-13600KF RX550 Hackintosh
 
-## Screenshot  
 ![System Info](https://github.com/duongnguyen16/TUF-B760M-PLUS-i5-13600KF-RX550-LEXA/blob/main/Screenshot/MacInfo.jpg?raw=true)
 
 ## Attendtion!
-This project was forked from **cuihairu** (https://github.com/cuihairu). You can view the original repository [here](https://github.com/cuihairu/TUF-GAMING-B760M-PLUS-WIFI-i714700KF-RX6950XT-Hackintosh).
+This project was forked from [cuihairu](https://github.com/cuihairu). You can view the original repository [here](https://github.com/cuihairu/TUF-GAMING-B760M-PLUS-WIFI-i714700KF-RX6950XT-Hackintosh).
 
 ## Modifications:
 - Updated all **kexts** to the latest versions (**December 17, 2024**).  
