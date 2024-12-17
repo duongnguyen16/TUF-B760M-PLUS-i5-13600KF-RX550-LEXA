@@ -3,7 +3,7 @@
 
 ![System Info](https://github.com/duongnguyen16/TUF-B760M-PLUS-i5-13600KF-RX550-LEXA/blob/main/Screenshot/MacInfo.jpg?raw=true)
 
-## Attendtion!
+## Attendtion
 This project was forked from [cuihairu](https://github.com/cuihairu). You can view the original repository [here](https://github.com/cuihairu/TUF-GAMING-B760M-PLUS-WIFI-i714700KF-RX6950XT-Hackintosh).
 
 ## Modifications:
@@ -43,7 +43,7 @@ This project was forked from [cuihairu](https://github.com/cuihairu). You can vi
 
 
 
-## Acknowledgements
+## Acknowledgements:
 
  - [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
  - [AppleALC Supported Codecs](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs)
