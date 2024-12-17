@@ -7,7 +7,7 @@ This project was forked from **cuihairu** (https://github.com/cuihairu). You can
 
 
 ### Screenshot  
-![System Info]([https://github.com/your-repo-name/your-branch-name/blob/main/Screenshot/MacInfo.jpg](https://github.com/duongnguyen16/TUF-B760M-PLUS-i5-13600KF-RX550-LEXA/blob/main/Screenshot/MacInfo.jpg))
+![System Info](https://github.com/your-repo-name/your-branch-name/blob/main/Screenshot/MacInfo.jpg](https://github.com/duongnguyen16/TUF-B760M-PLUS-i5-13600KF-RX550-LEXA/blob/main/Screenshot/MacInfo.jpg](https://github.com/duongnguyen16/TUF-B760M-PLUS-i5-13600KF-RX550-LEXA/blob/main/Screenshot/MacInfo.jpg?raw=true)))
 
 ### Modifications Compared to the Original Version:
 - Updated all **kexts** to the latest versions (**December 17, 2024**).  
